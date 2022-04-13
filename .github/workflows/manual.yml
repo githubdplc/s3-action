@@ -16,7 +16,7 @@ on:
         # Input has to be provided for the workflow to run
         required: true
         
-     talent:
+      talent:
         # Friendly description to be shown in the UI instead of 'name'
         description: 'talent de la personne'
         # Default value if no value is explicitly provided
